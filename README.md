@@ -1,4 +1,4 @@
-<h1 align="center">Olá, povo bonito 👋, Meu nome é Raquel 💻💕</h1>
+<h1 align="center">Olá, povo bonito 👋 Meu nome é Raquel 💻💕</h1>
 <h3 align="center">Desenvolvedora Frontend</h3>
 
 <a target="_blank" align="center">
