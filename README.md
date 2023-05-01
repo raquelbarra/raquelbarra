@@ -9,7 +9,7 @@
 
 - Bem-vindo(a) 🖥️💕
 
-- 💡Meu nome é Raquel, iniciei/ tive conhecimento da área de informática no ensino médio, cursei em uma escola profissionalizante, e, me apaixonei pelo ramo, em especial, desenvolvimento de sistemas. Sou graduada em Sistemas para Internet.
+- 💡Iniciei/ tive conhecimento da área de informática no ensino médio, cursei em uma escola profissionalizante, e, me apaixonei pelo ramo, em especial, desenvolvimento de sistemas. Sou graduada em Sistemas para Internet. Possuo formação Frontend pela bolsa Americanas Polotech (Parceria da Americanas com a Ada)
 
 - ✅ Possuo experiência desde desenvolvedora Full-stack, com o básico de Front-end mais focado no Back-end (PHP, Ajax, Laravel, MySQL...) , à gerenciamento/ administração de sistemas, com CMS com manutenção de intranet e portais, e, LMS com plataforma EAD (Joomla e Moodle).
 
@@ -19,7 +19,6 @@
 
 - 🌟 Estimo sucesso em seus projetos =)
 
-<br/>
 <h3 > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Redes sociais 🤝 </h3>
 
 <p align="center">
