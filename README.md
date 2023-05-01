@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedora Frontend</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" width="600" alt="GIF" src="https://user-images.githubusercontent.com/8225317/235526948-4588e2c9-534f-4258-ba11-861fd809eadd.jpg">
+  <img align="right" top="500" width="400" alt="GIF" src="https://user-images.githubusercontent.com/8225317/235526948-4588e2c9-534f-4258-ba11-861fd809eadd.jpg">
 </a>
 
 <br>
