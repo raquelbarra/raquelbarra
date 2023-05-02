@@ -7,17 +7,17 @@
 
 <br>
 
-- Bem-vindo(a) 🖥️💕
+- <strong>Bem-vindo(a)</strong> 🖥️💕
 
-- 💡Iniciei/ tive conhecimento da área de informática no ensino médio, cursei em uma escola profissionalizante, e, me apaixonei pelo ramo, em especial, desenvolvimento de sistemas. Sou graduada em Sistemas para Internet. Possuo formação Frontend pela bolsa Americanas Polotech (Parceria da Americanas com a Ada)
+- 💡 <strong>Iniciei/ tive conhecimento da área de informática</strong> no ensino médio, cursei em uma escola profissionalizante, e, me apaixonei pelo ramo, em especial, desenvolvimento de sistemas. Sou graduada em Sistemas para Internet. Possuo formação Frontend pela bolsa Americanas Polotech (Parceria da Americanas com a Ada)
 
-- ✅ Possuo experiência desde desenvolvedora Full-stack, com o básico de Front-end mais focado no Back-end (PHP, Ajax, Laravel, MySQL...) , à gerenciamento/ administração de sistemas, com CMS com manutenção de intranet e portais, e, LMS com plataforma EAD (Joomla e Moodle).
+- ✅ <strong>Possuo experiência</strong> desde desenvolvedora Full-stack, com o básico de Front-end mais focado no Back-end (PHP, Ajax, Laravel, MySQL...) , à gerenciamento/ administração de sistemas, com CMS com manutenção de intranet e portais, e, LMS com plataforma EAD (Joomla e Moodle).
 
-- ▶️ Atualmente, estou me especializando em desenvolvimento Front-end de sistemas web.
+- ▶️ <strong> Atualmente </strong>, estou me especializando em desenvolvimento Front-end de sistemas web. Estudando HTML, CSS, Javascript e React. <br> <strong> Próximas metas são estudar: </strong> Testes e Typescript.
 
-- 👩🏻‍💻 Gratidão pelo interesse no meu perfil! Nele estão disponíveis parte dos meus interesses e de minha jornada.
+- 👩🏻‍💻 <strong> Gratidão </strong> pelo interesse no meu perfil! Nele estão disponíveis parte dos meus interesses e de minha jornada.
 
-- 🌟 Estimo sucesso em seus projetos =)
+- 🌟 <strong> Estimo sucesso em seus projetos =)</strong>
 
 <h3 > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Redes sociais 🤝 </h3>
 
@@ -42,4 +42,4 @@
 
 ---
 
-Última edição: 01/05
+Última edição: 02/05
